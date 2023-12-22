@@ -1,0 +1,103 @@
+studio_akme:
+  hero_section:
+    title: "Innovating Digital Experiences"
+    subtitle: "Crafting Unique Web and Mobile Solutions"
+    background_image_url: "https://source.unsplash.com/random/1920x1080"
+    call_to_action: "Explore Our Work"
+
+  about_us:
+    title: "About Akmē Studio"
+    description: |
+      Akmē Studio is a cutting-edge web and mobile development studio based in Bulgaria. With a passion for
+      innovative design and state-of-the-art technology, we create digital solutions that stand out in the
+      ever-evolving tech landscape. Our team of expert developers and designers work collaboratively to
+      turn your ideas into reality.
+    image_url: "https://source.unsplash.com/random/800x600"
+
+  projects:
+    # Project 1
+    - title: "Project Orion"
+      description: |
+        Project Orion is an advanced e-commerce platform designed for scalability and user engagement. 
+        Featuring AI-driven recommendations and a seamless checkout process, this platform offers an
+        unmatched shopping experience.
+      work_details:
+        - "Developed a responsive front-end using React and Redux."
+        - "Implemented a microservices architecture for back-end scalability."
+        - "Integrated AI algorithms for product recommendations."
+      media_urls:
+        - "https://source.unsplash.com/random/800x600"
+        - "https://source.unsplash.com/random/800x600"
+      video_url: "https://www.youtube.com/watch?v=HUNIQY4iIq8"
+      tech_stack_keywords: ["React", "Redux", "Microservices", "AI"]
+
+    # Project 2
+    - title: "Voyage Virtual"
+      description: |
+        Voyage Virtual is a VR-based educational platform that brings immersive learning to life. It offers
+        interactive 3D environments for experiential learning in various subjects.
+      work_details:
+        - "Created realistic 3D models for VR environments."
+        - "Developed an intuitive UI/UX for educational VR applications."
+        - "Integrated VR headset compatibility across multiple devices."
+      media_urls:
+        - "https://source.unsplash.com/random/800x600"
+        - "https://source.unsplash.com/random/800x600"
+      tech_stack_keywords: ["Unity", "3D Modeling", "VR", "UX/UI Design"]
+
+    # Project 3
+    - title: "EcoTrack"
+      description: |
+        EcoTrack is a mobile app that promotes sustainable living by tracking and incentivizing eco-friendly
+        activities. It uses gamification to encourage users to make greener choices.
+      work_details:
+        - "Implemented a tracking system for carbon footprint calculations."
+        - "Designed a reward system for sustainable practices."
+        - "Ensured cross-platform compatibility for the app."
+      media_urls:
+        - "https://source.unsplash.com/random/800x600"
+        - "https://source.unsplash.com/random/800x600"
+      tech_stack_keywords: ["Flutter", "Firebase", "Gamification"]
+
+    # Project 4
+    - title: "Artificial Architect"
+      description: |
+        Artificial Architect is an AI-powered tool for architects, offering automated design suggestions
+        based on environmental and urban data.
+      work_details:
+        - "Developed AI algorithms for design optimization."
+        - "Integrated environmental data analysis for sustainable design."
+        - "Built a user-friendly interface for architects."
+      media_urls:
+        - "https://source.unsplash.com/random/800x600"
+        - "https://source.unsplash.com/random/800x600"
+      tech_stack_keywords: ["AI", "Data Analysis", "React", "Python"]
+
+    # Project 5
+    - title: "Fitness Frontier"
+      description: |
+        Fitness Frontier is a health and fitness app that provides personalized workout and nutrition plans
+        using AI and machine learning algorithms.
+      work_details:
+        - "Implemented machine learning algorithms for personalized plans."
+        - "Developed interactive and engaging workout guides."
+        - "Integrated a meal planner with recipe recommendations."
+      media_urls:
+        - "https://source.unsplash.com/random/800x600"
+        - "https://source.unsplash.com/random/800x600"
+      tech_stack_keywords: ["Machine Learning", "React Native", "Node.js"]
+
+    # Project 6
+    - title: "Space Sentinel"
+      description: |
+        Space Sentinel is a real-time satellite tracking and data visualization application that provides
+        insights into satellite movements and space weather.
+      work_details:
+        - "Developed real-time satellite tracking algorithms."
+        - "Created a dynamic data visualization interface."
+        - "Implemented API integration for space weather data."
+      media_urls:
+        - "https://source.unsplash.com/random/800x600"
+        - "https://source.unsplash.com/random/800x600"
+      video_url: "https://www.youtube.com/watch?v=eKn9EpePzkc"
+      tech_stack_keywords: ["JavaScript", "D3.js", "API Integration"]
